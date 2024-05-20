@@ -6,11 +6,11 @@ The system aims to:
 Enhance Data Management and Accessibility, Improve Patient Care and Experience, Streamline Administrative Processes, Ensure Data Security and Privacy, Enable Effective Reporting and Analytics.
 By achieving these objectives, the project aims to enhance the overall efficiency, effectiveness, and quality of hospital management ultimately leading to improved patient satisfaction and operational excellence. 
 
-✤ Tool Used:-
+Tool Used:-
 
 MySQL
 
-✤ Tables Used:-
+Tables Used:-
 
 patients
 
@@ -20,7 +20,7 @@ admissions
 
 province_names
 
-✤ Queries of the Project:-
+ Queries of the Project:-
 
 Q1: Show first name, last name, and gender of patients whose gender is 'M'.
 
