@@ -13,8 +13,11 @@ MySQL
 ✤ Tables Used:-
 
 patients
+
 doctors
+
 admissions
+
 province_names
 
 ✤ Queries of the Project:-
