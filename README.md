@@ -8,7 +8,7 @@ By achieving these objectives, the project aims to enhance the overall efficienc
 
 *Tool Used:-
 
-MySQL
+ MySQL
 
 *Tables Used:-
 
@@ -20,7 +20,7 @@ MySQL
 
 4. province_names
 
-* Queries of the Project:-
+*Queries of the Project:-
 
 Q1: Show first name, last name, and gender of patients whose gender is 'M'.
 
