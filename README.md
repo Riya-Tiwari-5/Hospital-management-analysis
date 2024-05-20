@@ -8,7 +8,7 @@ By achieving these objectives, the project aims to enhance the overall efficienc
 
 *Tool Used:-
 
- MySQL
+   MySQL
 
 *Tables Used:-
 
